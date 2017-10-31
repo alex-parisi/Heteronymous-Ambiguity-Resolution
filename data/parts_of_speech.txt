@@ -1,0 +1,46 @@
+ ------
+| LEAD |
+ ------
+
+leed - 0 - Verb (VB, VBD, VBG, VBN, VBP, VBZ)
+led  - 1 - Noun (NN, NNS, NNP, NNPS)
+
+
+ --------
+| OBJECT |
+ --------
+
+object - 0 - Noun (NN, NNS, NNP, NNPS)
+obJECT - 1 - Verb (VB, VBD, VBG, VBN, VBP, VBZ)
+
+
+ --------
+| MINUTE |
+ --------
+
+minute - 0 - Noun (NN, NNS, NNP, NNPS)
+minUTE - 1 - Adjective (JJ, JJR, JJS)
+
+
+ ---------
+| CONDUCT |
+ ---------
+
+CONduct - 0 - Verb (VB, VBD, VBG, VBN, VBP, VBZ)
+conDUCT - 1 - Noun (NN, NNS, NNP, NNPS)
+
+
+ -------
+| CLOSE |
+ -------
+
+cloZe - 0 - Verb (VB, VBD, VBG, VBN, VBP, VBZ)
+cloSe - 1 - Adjective (JJ, JJR, JJS)
+
+
+ -----
+| USE |
+ -----
+
+uZe - 0 - Verb (VB, VBD, VBG, VBN, VBP, VBZ)
+uSe - 1 - Noun (NN, NNS, NNP, NNPS)
